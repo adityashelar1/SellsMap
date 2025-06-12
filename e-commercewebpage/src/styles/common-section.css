@@ -1,0 +1,8 @@
+.common_section{
+    background:url("../assets/images/common-section-bg1.jpeg.jpg") no-repeat center center;
+    background-size: cover;
+}
+.common_section h1{
+    color :#fff;
+    font-weight: 600;
+}
